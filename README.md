@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo!</h1>
-<h3 align="center">a data science university student from Buenos Aires, Argentina. Passionate about data, sports and The Lord of the Rings. I also try to learn web development in a self-taught way.</h3>
+<h3 align="center">a data science university student from Buenos Aires, Argentina. 
+  Passionate about data, sports and The Lord of the Rings. I also try to learn web development in a self-taught way.</h3>
 
 - 🌱 I’m currently learning **R, Python, HTML and CSS**
 
