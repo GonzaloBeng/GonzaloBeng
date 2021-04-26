@@ -1,4 +1,4 @@
-### Hi there, I'm [Gonzalo!](https://GonzaloBeng.github.io) 👋
+### Hi there, I'm [Gonzalo!](https://github.com/GonzaloBeng) 👋
 
 <a href="https://twitter.com/GonzaloBeng">
   <img align="left" alt="Gonzalo Bengoechea | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
