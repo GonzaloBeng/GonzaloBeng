@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi, I'm Gonzalo! 👋
 
-<!--
-**GonzaloBeng/GonzaloBeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me 🌎:
+- [LinkedIn] {https://www.linkedin.com/in/gonzalobeng/}
+- [Twitter] {https://twitter.com/GonzaloBeng}
+- [Instagram] {https://www.instagram.com/gonzabeng/}
 
-Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
