@@ -17,3 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzalobeng&show_icons=true&locale=en" alt="gonzalobeng" /></p>
 
+<a href="https://twitter.com/gonzalobeng" target="blank"><img align="center" src="https://www.flaticon.es/autores/pixel-perfect" alt="gonzalobeng" height="30" width="40" /></a>
+<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
