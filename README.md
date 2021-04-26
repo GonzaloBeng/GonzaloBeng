@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo!</h1>
-<h3 align="center">a data science university student from Buenos Aires, Argentina. </h3>
+<h3 align="center">a data science student from Buenos Aires, Argentina. </h3>
 
 <i>A little about me 😃 :</i><br>
 
@@ -18,6 +18,6 @@
 
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzalobeng&show_icons=true&hide_border=true&theme=dark" alt="gonzalobeng" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gonzalobeng&show_icons=true&hide_border=true&theme=dark" alt="gonzalobeng" /></p>
 
 
