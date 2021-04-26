@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo!</h1>
 <h3 align="center">a data science student from Buenos Aires, Argentina. </h3>
 
-<i>A little about me 😃 :</i><br>
+<i>**A little about me 😃 :**</i><br>
 
 - 😄 Pronouns: He/Him 
 - 🔭 I am currently working to try to be consistent, learn something new every day and my personal website 💪.
@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Javascript and BackEnd 😄.
 - ⚡ Fun fact: I have Argonath from The Lord from the rings tattooed on my arm❤️.
 
-<i>Find me in the 🌎:</i><br>
+<i>**Find me in the 🌎:**</i><br>
 
 <a href="https://www.linkedin.com/in/gonzalobeng" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/gonzabeng" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
