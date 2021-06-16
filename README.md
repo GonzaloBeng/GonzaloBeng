@@ -5,9 +5,9 @@
 
 - 😄 Pronouns: He/Him 
 - 🔭 I am currently working to try to be consistent, learn something new every day and my personal website 💪.
-- 🌱 I’m currently learning **R, Python, HTML, CSS and Js**.
+- 🌱 I’m currently learning **R and Python**.
 - 👯 I am looking to collaborate in group projects where it allows me to learn from Data science applied to football ⚽ and web development. 
-- 🤔 I’m looking for help with Javascript and BackEnd 😄.
+- 🤔 I’m looking for help with with self-study paths and how to move forward 😄.
 - ⚡ Fun fact: I have Argonath from The Lord from the rings tattooed on my arm❤️.
 
 <i>**Find me in the 🌎:**</i><br>
