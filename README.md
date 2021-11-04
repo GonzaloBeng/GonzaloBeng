@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, R, algebra, statistics and mathematical analysis.**
 
-- 👯 I’m looking to collaborate on **collaborate in group projects where it allows me to learn from Data science applied to football ⚽.**
+- 👯 I’m looking to collaborate on **group projects where it allows me to learn from Data science applied to football ⚽.**
 
 - 🤝 I’m looking for help with **self-study paths 😄.**
 
