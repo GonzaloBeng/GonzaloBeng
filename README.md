@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:gonzalobeng@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gonzalobeng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gonzalobeng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="gonzalobeng" height="30" width="40" /></a>
 <a href="https://twitter.com/gonzalobeng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="gonzalobeng" height="30" width="40" /></a>
 <a href="https://instagram.com/gonzabeng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="gonzabeng" height="30" width="40" /></a>
