@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **group projects where it allows me to learn from Data science applied to football ⚽.**
 
-- 🤝 I’m looking for help with **self-study paths 😄. **
+- 🤝 I’m looking for help with **self-study paths 😄.**
 
 - ⚡ Fun fact **I have Argonath from The Lord from the rings tattooed on my arm❤️.**
 
