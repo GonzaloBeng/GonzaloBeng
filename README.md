@@ -1,7 +1,7 @@
 ![Banner](https://github.com/GonzaloBeng/GonzaloBeng/blob/main/Banner%20de%20Linkedin.png)
 
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">here is some information about me and my work</h3>
+
 
 ## 💫 About Me:
 🔭 I’m currently working on <a href="https://www.tgv.com.ar/" target="_blank">TGV</a> as a Data Analyst<br>🌱 I’m currently learning Data Science at <a href="https://www.unab.edu.ar/lic-ciencia-datos.html" target="_blank">Universidad Nacional Guillermo Brown</a><br>💬 Ask me about Python, SQL and PowerBi<br>👨‍💻 All of my projects are available at <a href="https://gonzalobeng.github.io/" target="_blank">My Web Portfolio</a>
@@ -37,8 +37,5 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white) 
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloBeng&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
