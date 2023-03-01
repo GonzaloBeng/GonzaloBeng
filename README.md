@@ -1,24 +1,44 @@
-<h1 align="center">Hi 👋, I'm Gonzalo!</h1>
-<h3 align="center">A passionate data science student from Buenos Aires, Argentina</h3>
+![Banner](https://github.com/GonzaloBeng/GonzaloBeng/blob/main/Banner%20de%20Linkedin.png)
 
-- 🌱 I’m currently learning **Python, R, algebra, statistics and mathematical analysis.**
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">here is some information about me and my work</h3>
 
-- 👯 I’m looking to collaborate on **group projects where it allows me to learn from Data science applied to football ⚽.**
+## 💫 About Me:
+🔭 I’m currently working on <a href="https://www.tgv.com.ar/" target="_blank">TGV</a> as a Data Analyst<br>🌱 I’m currently learning Data Science at <a href="https://www.unab.edu.ar/lic-ciencia-datos.html" target="_blank">Universidad Nacional Guillermo Brown</a><br>💬 Ask me about Python, SQL and PowerBi<br>👨‍💻 All of my projects are available at <a href="https://gonzalobeng.github.io/" target="_blank">My Web Portfolio</a>
 
-- 🤝 I’m looking for help with **self-study paths 😄.**
 
-- ⚡ Fun fact **I have Argonath from The Lord from the rings tattooed on my arm❤️.**
+## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalobeng@gmail.com) [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GonzaloBeng) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GonzaloBeng) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:gonzalobeng@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gonzalobeng" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/gonzalobeng" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="gonzalobeng" height="30" width="40" /></a>
-<a href="https://twitter.com/gonzalobeng" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="gonzalobeng" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gonzabeng/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="gonzabeng" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="python" width="35" height="35"/></a> <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" alt="numpy" width="35" height="35"/></a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="pandas" width="35" height="35"/></a> <!-- <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powerbi.svg" alt="powerbi" width="35" height="35"/></a> --> <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" alt="r" width="35" height="35"/></a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="r" width="40" height="40"/></a> <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/ios-filled/ms-excel.png" alt="r" width="35" height="35"/></a> <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/ios-filled/google-sheets.png" alt="r" width="35" height="35"/></a> <a href="https://www.r-project.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="r" width="35" height="35"/></a> <a href="https://www.rstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" alt="r" width="35" height="35"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="git" width="35" height="35"/></a></p>
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalobeng&show_icons=true&locale=en&layout=compact&theme=dark" alt="gonzalobeng" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzalobeng&show_icons=true&locale=en&theme=dark" alt="gonzalobeng" /></p>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+
+![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white) 
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloBeng&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
